@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "stdStorageName": {
-      "value": "dtnavnetstoragestd"
+      "value": "udrautoteststoragestd"
     },
     "stdStorageType": {
       "value": "Standard_LRS"
     },
     "prmStorageName": {
-      "value": "dtnavnetstorageprm"
+      "value": "udrautoteststorageprm"
     },
     "prmStorageType": {
       "value": "Standard_LRS" 
